@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["$","document","ready","toast"],"mappings":";;AAAIA,CAAC,CAACC,QAAD,CAAD,CAAYC,KAAZ,CAAkB,YAAW;AACrBF,EAAAA,CAAC,CAAC,QAAD,CAAD,CAAYG,KAAZ,CAAkB,MAAlB;AACH,CAFL","sourcesContent":["    $(document).ready(function() {\r\n            $('.toast').toast('show');\r\n        });"],"file":"main.dev.js"}
