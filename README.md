@@ -21,19 +21,6 @@ This is a responsive and elegant front-end website for the **Gold Coast Conventi
 
 ---
 
-## 🖼️ Screenshots
-
-### Homepage & Hero Banner
-![Homepage](screenshots/hero_section.png)
-
-### Service & Package Sections
-![Services](screenshots/services_section.png)
-
-### Album & Contact
-![Album](screenshots/album_section.png)
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
